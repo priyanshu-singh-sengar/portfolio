@@ -153,7 +153,7 @@ function App() {
               <a href="#resume" className="btn btn-outline">View Resume</a>
             </div>
             <div className="social-links animate-fade-up" style={{animationDelay: '1.4s'}}>
-              <a href="https://github.com/" target="_blank" rel="noreferrer" aria-label="GitHub"><FaGithub /></a>
+              <a href="https://github.com/priyanshu-singh-sengar" target="_blank" rel="noreferrer" aria-label="GitHub"><FaGithub /></a>
               <a href="https://linkedin.com/" target="_blank" rel="noreferrer" aria-label="LinkedIn"><FaLinkedin /></a>
               <a href="mailto:zxenusanger@gmail.com" aria-label="Email"><FaEnvelope /></a>
             </div>
@@ -190,7 +190,7 @@ function App() {
                 <div className="project-header">
                   <FaCode className="project-icon" size={40} />
                   <div className="project-links">
-                    <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub Repo"><FaGithub size={20} /></a>
+                    <a href="https://github.com/priyanshu-singh-sengar" target="_blank" rel="noreferrer" title="GitHub Repo"><FaGithub size={20} /></a>
                   </div>
                 </div>
                 <h3 className="project-title">GitLens Explorer</h3>
@@ -212,7 +212,7 @@ function App() {
                 <div className="project-header">
                   <FaHandsHelping className="project-icon" size={40} />
                   <div className="project-links">
-                    <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub Repo"><FaGithub size={20} /></a>
+                    <a href="https://github.com/priyanshu-singh-sengar" target="_blank" rel="noreferrer" title="GitHub Repo"><FaGithub size={20} /></a>
                   </div>
                 </div>
                 <h3 className="project-title">BlessingBridge</h3>
@@ -232,7 +232,7 @@ function App() {
                 <div className="project-header">
                   <FaServer className="project-icon" size={40} />
                   <div className="project-links">
-                    <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub Repo"><FaGithub size={20} /></a>
+                    <a href="https://github.com/priyanshu-singh-sengar" target="_blank" rel="noreferrer" title="GitHub Repo"><FaGithub size={20} /></a>
                   </div>
                 </div>
                 <h3 className="project-title">Scalable REST API Backend</h3>
@@ -253,7 +253,7 @@ function App() {
                 <div className="project-header">
                   <FaCommentDots className="project-icon" size={40} />
                   <div className="project-links">
-                    <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub Repo"><FaGithub size={20} /></a>
+                    <a href="https://github.com/priyanshu-singh-sengar" target="_blank" rel="noreferrer" title="GitHub Repo"><FaGithub size={20} /></a>
                   </div>
                 </div>
                 <h3 className="project-title">Real-Time Chat Application</h3>
@@ -273,7 +273,7 @@ function App() {
                 <div className="project-header">
                   <FaTasks className="project-icon" size={40} />
                   <div className="project-links">
-                    <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub Repo"><FaGithub size={20} /></a>
+                    <a href="https://github.com/priyanshu-singh-sengar" target="_blank" rel="noreferrer" title="GitHub Repo"><FaGithub size={20} /></a>
                   </div>
                 </div>
                 <h3 className="project-title">Full-Stack Todo & Voting Apps</h3>
@@ -448,7 +448,7 @@ function App() {
               </a>
             </div>
             <div className="social-links-large">
-              <a href="https://github.com/" target="_blank" rel="noreferrer" className="btn btn-outline"><FaGithub size={20} /> GitHub</a>
+              <a href="https://github.com/priyanshu-singh-sengar" target="_blank" rel="noreferrer" className="btn btn-outline"><FaGithub size={20} /> GitHub</a>
               <a href="https://linkedin.com/" target="_blank" rel="noreferrer" className="btn btn-outline"><FaLinkedin size={20} /> LinkedIn</a>
             </div>
           </div>

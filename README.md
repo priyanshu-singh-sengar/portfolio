@@ -24,7 +24,7 @@ If you'd like to clone this repository and run it on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/priyanshu-singh-sengar/portfolio.git
    cd portfolio
    ```
 
